@@ -1,4 +1,4 @@
-# NFT Preview Card Component
+# Four Card Section
 
 This repository contains my solution for the Four Card Section challenge from Frontend Mentor.
 
